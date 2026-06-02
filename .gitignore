@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Gemini sandbox files
+.gemini/
