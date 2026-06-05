@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 import os
 
-DB_PATH = "bluestock_mf.db"
+DB_PATH = "db/bluestock_mf.db"
 OUTPUT_SQL = "sql/queries.sql"
 
 # Define the 10 analytical queries

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from sqlalchemy import create_engine
 
-DB_PATH = "bluestock_mf.db"
+DB_PATH = "db/bluestock_mf.db"
 PROCESSED_DIR = "data/processed"
 SCHEMA_SQL = "sql/schema.sql"
 
